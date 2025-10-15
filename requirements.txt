@@ -1,0 +1,17 @@
+gdown==5.2.0
+gensim==4.3.3
+lightning==2.5.5
+lightning-utilities==0.15.2
+matplotlib==3.10.3
+matplotlib-inline==0.1.7
+nltk==3.9.1
+numpy==1.26.4
+pandas==2.3.1
+pytorch-lightning==2.5.5
+scikit-learn==1.7.1
+spacy==3.8.7
+tokenizers==0.22.0
+torch==2.8.0
+torchmetrics==1.8.2
+tqdm==4.67.1
+transformers==4.57.0
